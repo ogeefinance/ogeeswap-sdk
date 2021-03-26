@@ -1,8 +1,7 @@
 # ogeeswap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/ogeefinance/ogeeswap-sdk.git/workflows/CI/badge.svg)](https://github.com/ogeefinance/ogeeswap-sdk.git)
-[![npm version](https://img.shields.io/npm/v/@ogeeswap/sdk/latest.svg)](https://www.npmjs.com/package/@ogeefinance/ogeeswap-sdk/v/latest)
+[![npm version](https://img.shields.io/npm/v/@ogeefinance/ogeeswap-sdk/latest.svg)](https://www.npmjs.com/package/@ogeefinance/ogeeswap-sdk/v/latest)
 
 ## Running tests
 
